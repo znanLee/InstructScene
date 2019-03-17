@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/znanLee/Instruct Scene.unity
+  isLoaded: 1
+  isActive: 1
